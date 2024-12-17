@@ -2,12 +2,6 @@ package week1.day1;
 
 public class FireFox {
 
-	/**
-	 * @param args
-	 */
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		int releaseYear = 1998;
